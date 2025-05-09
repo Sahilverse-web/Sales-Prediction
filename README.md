@@ -1,7 +1,7 @@
-# 🛍️ Sales Prediction Using Machine Learning
+#  Sales Prediction Using Machine Learning
 
 This is a Data Science Task for my internship at Codsoft
-This project predicts sales revenue using regression models based on features such as advertising budget, store location, and other business-related metrics.
+This project predicts sales revenue using regression models based on many features.
 
 ## Dataset 
 The dataset is given as advertising.csv
